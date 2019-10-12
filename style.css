@@ -1,0 +1,59 @@
+#header {
+  text-align: center;
+  margin-bottom: 32px;
+}
+
+#main {
+    margin-left: 5%;
+}
+
+#footer {
+    text-align: center;
+    margin-top: 64px;
+}
+
+p {
+    font-size: 16px;
+    margin-bottom: 12px;
+    margin-top: 0;
+}
+
+span {
+    font-size: 16px;
+    font-weight: bolder;
+}
+
+h1 {
+    font-size: 36px;
+    margin-bottom: 0;   
+}
+
+h2 {
+    font-size: 32px;
+    font-weight: bold 400;
+    margin-bottom: 8px;
+}
+
+h3 {
+    font-size: 20px;
+    font-weight: normal;
+    text-indent: 15px;
+    letter-spacing: 2px;
+    margin-bottom: 0;
+}
+
+hr {
+    border: none;
+    background-color: gray;
+    height: 1px;
+}
+
+ol {
+    list-style-type: disc;
+    margin-bottom: 0;
+}
+
+.link {
+  font-size: 15px;
+  font-style: italic;
+}
